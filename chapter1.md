@@ -114,7 +114,3 @@ test_error()
 
 success_msg("Good work!")
 ```
-
---- type:VideoExercise lang:r xp:50 skills:1 key:d17fc1049c slidesKey:652a2913bdbd27450b747e17e64680f2
-## Cool new video
-
