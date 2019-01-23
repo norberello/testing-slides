@@ -1,4 +1,4 @@
-# DataCamp Template Course
+# DataCamp Template Course (not a single video exercise though)
 <a href=https://dev.datacamp.com//teach/repositories/82299530/go target="_blank"><img src="https://s3.amazonaws.com/assets.datacamp.com/img/github/content-engineering-repos/course_button.png" width="150"></a>
 <a href=https://dev.datacamp.com//teach/repositories target="_blank"><img src="https://s3.amazonaws.com/assets.datacamp.com/img/github/content-engineering-repos/dashboard_button.png" width="150"></a>
 
